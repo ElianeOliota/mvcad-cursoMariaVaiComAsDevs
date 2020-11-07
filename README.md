@@ -1,2 +1,2 @@
 # mvcad-cursoMariaVaiComAsDevs
-projeto que faz a gestão de inscrições do MVCDA
+projeto que faz a gestão de inscrições do MVCAD
